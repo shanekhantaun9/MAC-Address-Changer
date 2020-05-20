@@ -10,7 +10,7 @@ print('''
 #                                                    #
 #               MAC Address Changer                  #
 #                                                    #
-#             Developed by Who Cares?                #
+#             Developed by Cyb3rh0L!c                #
 #                                                    #
 #                                                    #
 ######################################################
